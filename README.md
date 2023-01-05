@@ -1,2 +1,2 @@
-# script-decoding-project
-I do my best, even though I suck lol
+# Script Decoding Project
+Cuz I''m bored lol.
